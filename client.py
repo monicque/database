@@ -1,4 +1,3 @@
-#author asla
 #license Public Domain
 
 import MySQLdb
